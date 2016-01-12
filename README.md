@@ -11,3 +11,6 @@
 
 ### Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+### React & Redux
+* [Read Me | Redux](http://rackt.org/redux/index.html)
