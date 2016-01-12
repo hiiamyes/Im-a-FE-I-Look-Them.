@@ -14,3 +14,8 @@
 
 ### React & Redux
 * [Read Me | Redux](http://rackt.org/redux/index.html)
+
+### Immutable
+* [immutable-js](https://github.com/facebook/immutable-js)
+* [Immutable Data Structures and JavaScript](http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)
+
